@@ -1,0 +1,30 @@
+{
+  "name": "challenge-project-fullstack",
+  "version": "1.0.0",
+  "description": "![Captura de tela 2021-11-08 214941](https://user-images.githubusercontent.com/30291266/140842441-76f0da80-955f-4a50-9c02-775098bdd874.png)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoScripts/Challenge-Project-Fullstack.git"
+  },
+  "author": "leandroguitarjesus89@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoScripts/Challenge-Project-Fullstack/issues"
+  },
+  "homepage": "https://github.com/LeoScripts/Challenge-Project-Fullstack#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.9.0"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.3.0"
+  }
+}
